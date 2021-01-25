@@ -1,0 +1,23 @@
+{
+  "name": "koa2-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CantFindItAnymore/koa2-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CantFindItAnymore/koa2-test/issues"
+  },
+  "homepage": "https://github.com/CantFindItAnymore/koa2-test#readme",
+  "dependencies": {
+    "koa": "^2.13.1"
+  }
+}
